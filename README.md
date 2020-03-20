@@ -141,3 +141,5 @@ public:
 
 ### 3. 使用例子
 使用实例详见 examples/test_1.cpp
+
+转载https://github.com/yandaren/kafka_cpp
